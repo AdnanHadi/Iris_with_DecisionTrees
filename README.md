@@ -15,5 +15,4 @@
     </ol>
 </div>
 
-<a id='frame_problem'></a>
-<img src="images/Trees.jpg"/>
+![Image of Tree](images/Trees.jpg)
