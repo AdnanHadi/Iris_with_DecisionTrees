@@ -15,4 +15,5 @@
     </ol>
 </div>
 
-![Image of Tree](images/Trees.jpg)
+![Image of Tree](/images/Trees.jpg)
+
